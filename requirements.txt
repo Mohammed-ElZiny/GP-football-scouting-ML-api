@@ -1,0 +1,6 @@
+supervision==0.1.0
+ultralytics==8.0.198
+ipywidgets==8.1.1
+torch
+torchvision
+torchaudio
